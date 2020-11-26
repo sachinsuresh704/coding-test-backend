@@ -1,0 +1,5 @@
+PORT = "3001"
+
+DATABASE_URL = "your postgres connection string"
+
+TOKEN_SECRET_KEY = "your jwt token secret"
